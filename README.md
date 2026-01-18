@@ -14,8 +14,7 @@ This project demonstrates the end-to-end implementation of an NLP pipeline, from
 ## 🖼️ Demo & Visuals
 
 ### 🔹 User Interface
-![App Screenshot](assets/app_screenshot.png)
-*(Note: Please add a screenshot of your running app here or remove this line)*
+
 
 ### 🔹 Model Performance (Confusion Matrix)
 The model minimizes False Positives to ensure important messages are not lost.
