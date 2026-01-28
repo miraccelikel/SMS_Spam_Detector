@@ -62,7 +62,7 @@ Follow these steps to set up the project locally.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/miraccelikel/sms-spam-detector.git
+git clone https://github.com/miraccelikel/Sms-Spam-Detector.git
 cd sms-spam-detector
 
 ```
