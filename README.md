@@ -14,7 +14,11 @@ This project demonstrates the end-to-end implementation of an NLP pipeline, from
 ## 🖼️ Demo & Visuals
 
 ### 🔹 User Interface
+## 🚀 Live Demo
 
+You can try the SMS Spam Detection app directly in your browser:
+
+👉 **[Open the App](https://smsspamdetectorapp.streamlit.app/)**
 
 ### 🔹 Model Performance (Confusion Matrix)
 The model minimizes False Positives to ensure important messages are not lost.
